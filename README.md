@@ -1,2 +1,2 @@
 # draw.io
-图标repo
+图表repo
